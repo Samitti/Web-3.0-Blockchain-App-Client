@@ -1,14 +1,16 @@
-import { useState } from 'react'
-import './App.css'
+import { Navbar, Welcome, Footer, Services, Transactions } from './components';
 
 function App() {
-  const [count, setCount] = useState(0)
 
   return (
-    <div className="App">
-      <h1 class="text-3xl font-bold underline">
-        Hello world!
-      </h1>
+    <div className="min-h-screeen">
+      <div className="gradient-bg-welcome">
+        <Navbar />
+        <Welcome />
+      </div>
+      <Services />
+      <Transactions />
+      <Footer />
     </div>
   )
 }
