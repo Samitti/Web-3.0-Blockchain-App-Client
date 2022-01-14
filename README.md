@@ -10,7 +10,7 @@ This is a web 3.0 blokchain app with smart contract in ethereum network. In this
 - ES6
 - Tailwind CSS
 
-[Live Demo Link Netlify](https://m-krypt-blockcahin-app.netlify.app/)
+[Live Demo Link Netlify](https://m-krypt-blokchain-app.netlify.app/)
 
 ![screenshot 1](./images/Capture1.JPG)
 
